@@ -43,7 +43,8 @@ int main(void)
 	/*
 	while (1)
 	{
-
+		if(!ReactorSafe())
+			ReactorOff();
 	}
 	*/
 

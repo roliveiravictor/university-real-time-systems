@@ -1,6 +1,6 @@
 # README #
 
-Those are the codes I've built on my lecture Real Time Systems.
+Those are the codes I've built on my Real Time Systems lecture.
 
 ### What is this repository for? ###
 

@@ -5,3 +5,5 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
+#include <Windows.h>
+#include <signal.h>

@@ -12,6 +12,6 @@ int main(int argc, char *argv[])
 	/*
 	Call MotorControl over another process without wait
 	*/
-	_spawnl(P_WAIT, "MotorControl.exe", "MotorControl.exe", NULL);
-	printf("Ain't gonna wait the other process");
+	_spawnl(P_NOWAIT, "RTS MotorControl.exe", "RTS MotorControl.exe", NULL);
+	printf("\n Ain't gonna wait the other process \n");
 }

@@ -10,8 +10,8 @@ This is a program to simulate a single motor step control with process spawn.
 int main(int argc, char *argv[])
 {
 	/*
-	Call MotorControl over another process without wait
+	Call MotorControl over another process and waits
 	*/
-	_spawnl(P_WAIT, "MotorControl.exe", "MotorControl.exe", NULL);
-	printf("I'm gonna wait the other process");
+	_spawnl(P_WAIT, "RTS MotorControl.exe", "RTS MotorControl.exe", NULL);
+	printf("\n I've been waiting the other process \n");
 }

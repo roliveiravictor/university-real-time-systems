@@ -13,6 +13,10 @@ int main(int argc, char *argv[])
 	Motor running 10 cycles.
 	*/
 	for (int i = 0; i < 10; i++)
-		printf("Motor now running. Cycles count: %i", i + 1);
+	{
+		printf("\n Motor now running. Cycles count: %i", i + 1);
+		Sleep(1000);
+	}
 
+	printf("\n");	
 }

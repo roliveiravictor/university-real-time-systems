@@ -1,6 +1,11 @@
-#include <stdio.h>
-#include <time.h>
-#include <stdbool.h>
+/*
+Subject: Real time systems
+Author: Victor Rocha
+
+This is a program to control temperature and send out alarms.
+*/
+
+#include <RTSExercises.h>
 
 bool ReatorSafe(void);
 bool ReatorOff(void);

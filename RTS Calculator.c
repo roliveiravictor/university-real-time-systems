@@ -1,12 +1,11 @@
 /*
-Subject: Real time operating system
+Subject: Real time systems
 Author: Victor Rocha
 
 This is a calculator to receive argv parameters and make simple operations.
 */
 
-#include <stdio.h>
-#include <stdlib.h>
+#include <RTSExercises.h>
 
 int main(int argc, char *argv[])
 {

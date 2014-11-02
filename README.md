@@ -1,11 +1,10 @@
 # README #
 
-This the first and only version of a practical exercise by RTS subject
+Those are the codes I've built on my lecture Real Time Systems.
 
 ### What is this repository for? ###
 
 * RTS Practical Exercises
-* 1.0
 
 ### How do I get set up? ###
 

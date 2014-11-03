@@ -1,9 +1,12 @@
-/*
-Subject: Real time systems
-Author: Victor Rocha
-
-This is a program to control temperature and send out alarms.
-*/
+/**********************************************************************/
+/*                                                                    */
+/*         Lecture: Real Time Systems								  */
+/*		   Author: Victor Rocha                                       */
+/*																	  */
+/*		This is a program to control temperature					  */
+/*		and send out alarms.				  						  */	
+/*                                                                    */
+/**********************************************************************/
 
 #include <RTSExercises.h>
 

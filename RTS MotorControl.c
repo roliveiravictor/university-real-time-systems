@@ -1,10 +1,13 @@
-/*
-Subject: Real time systems
-Author: Victor Rocha
-
-This is a program that actually runs the motor based on WaitStepMotor.c or NoWaitStepMotor.c
-Also, depending on its parent process may call a sensor control.
-*/
+/**********************************************************************/
+/*                                                                    */
+/*         Lecture: Real Time Systems							      */
+/*         Author:  Victor Rocha                                      */
+/*																	  */
+/*	This is a program that actually runs the motor based on			  */
+/*	WaitStepMotor.c or NoWaitStepMotor.c							  */
+/*	Also, depending on its parent process may call a sensor control.  */
+/*                                                                    */
+/**********************************************************************/
 
 #include <RTSExercises.h>
 

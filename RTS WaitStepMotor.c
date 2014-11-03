@@ -1,9 +1,12 @@
-/*
-Subject: Real time systems
-Author: Victor Rocha
-
-This is a program to simulate a single motor step control with process spawn. 
-*/
+/**********************************************************************/
+/*                                                                    */
+/*         Lecture: Real Time Systems								  */
+/*		   Author: Victor Rocha                                       */
+/*																	  */
+/*		This is a program to simulate a single motor step			  */
+/*		control with process spawn. 				  				  */	
+/*                                                                    */
+/**********************************************************************/
 
 #include <RTSExercises.h>
 

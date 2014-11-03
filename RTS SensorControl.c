@@ -2,7 +2,7 @@
 Subject: Real time systems
 Author: Victor Rocha
 
-This is a program that actually runs the motor based on WaitStepMotor.c or NoWaitStepMotor.c
+This is a program to control a sensor input
 */
 
 #include <RTSExercises.h>

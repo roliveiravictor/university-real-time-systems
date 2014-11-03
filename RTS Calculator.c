@@ -1,9 +1,12 @@
-/*
-Subject: Real time systems
-Author: Victor Rocha
-
-This is a calculator to receive argv parameters and make simple operations.
-*/
+/**********************************************************************/
+/*                                                                    */
+/*         Lecture: Real time systems								  */
+/*		   Author: Victor Rocha                                       */
+/*																	  */
+/*		This is a calculator to receive argv parameters				  */
+/*		and make simple operations.									  */
+/*                                                                    */
+/**********************************************************************/
 
 #include <RTSExercises.h>
 

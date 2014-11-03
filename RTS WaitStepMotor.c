@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 	/*
 	Call MotorControl over another process and waits
 	*/
-	printf("\n To control only step motor no parameters should be passed. \n To control step motor and sensor pass any parameter to RTS WaitStepMotor.exe.\n");
+	printf("\n To control only step motor none parameter should be passed. \n To control step motor and sensor pass any parameter to RTS WaitStepMotor.exe.\n");
 
 	if (argc == 1)
 	{

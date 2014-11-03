@@ -1,6 +1,6 @@
 /**********************************************************************/
 /*                                                                    */
-/*         Lecture: Real time systems								  */
+/*         Lecture: Real Time Systems								  */
 /*		   Author: Victor Rocha                                       */
 /*																	  */
 /*		This is a calculator to receive argv parameters				  */
